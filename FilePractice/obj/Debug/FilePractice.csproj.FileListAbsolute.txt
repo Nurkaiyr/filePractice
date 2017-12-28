@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2017\Projects\FilePractice\FilePractice\bin\Debug\FilePractice.exe.config
+c:\users\1\documents\visual studio 2017\Projects\FilePractice\FilePractice\bin\Debug\FilePractice.exe
+c:\users\1\documents\visual studio 2017\Projects\FilePractice\FilePractice\bin\Debug\FilePractice.pdb
+c:\users\1\documents\visual studio 2017\Projects\FilePractice\FilePractice\obj\Debug\FilePractice.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\FilePractice\FilePractice\obj\Debug\FilePractice.exe
+c:\users\1\documents\visual studio 2017\Projects\FilePractice\FilePractice\obj\Debug\FilePractice.pdb
